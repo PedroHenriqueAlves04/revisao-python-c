@@ -2,7 +2,6 @@
 
 int main(){
     int num;
-
     printf("Digite um numero: \n");
     scanf("%d" , &num);
 
@@ -12,6 +11,5 @@ int main(){
     else{
         printf("%d e IMPAR\n" , num);
     }
-
     return 0;
 }
